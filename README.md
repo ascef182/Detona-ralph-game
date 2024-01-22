@@ -1,6 +1,6 @@
 # Jogo do Detona Ralph
 
-Este é um jogo interativo inspirado no Detona Ralph, desenvolvido com HTML, CSS e JavaScript. O código inicial foi baseado no BootCamp de Desenvolvimento de Jogos da Digital Innovation One e ensinado pelo Filipão ,
+Este é um jogo interativo inspirado no Detona Ralph, desenvolvido com HTML, CSS e JavaScript. O código inicial foi baseado no BootCamp de Desenvolvimento de Jogos da [DIO (Digital Innovation One)](https://www.digitalinnovation.one/) e ensinado pelo Filipão ,
 com algumas modificações e adições feitas posteriormente.
 
 ## Como Jogar
